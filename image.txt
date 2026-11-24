@@ -1,0 +1,6 @@
+
+Sample image metadata.
+
+Filename: sample-image.jpg
+Type: JPEG
+Purpose: Encryption testing.
